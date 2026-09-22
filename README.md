@@ -23,6 +23,7 @@
 | [docs/HOMEWORK-01.md](docs/HOMEWORK-01.md) | ДЗ №1 — «Найди боль» |
 | [docs/LESSON-03.md](docs/LESSON-03.md) | Занятие 3 (18.09): брейншторм, выбор проектов, поиск заказчиков |
 | [docs/LESSON-04.md](docs/LESSON-04.md) | Занятие 4 (22.09): команды и первая программа |
+| [docs/LESSON-06.md](docs/LESSON-06.md) | Занятие 6 (24.09): репозитории команд, первый коммит каждого |
 | [docs/WEEK-03.md](docs/WEEK-03.md) | Неделя 3 по дням: Python, git, первая программа на сервере |
 | [docs/HOMEWORK-02.md](docs/HOMEWORK-02.md) | ДЗ №2 — «Найди заказчика» |
 | [docs/HOMEWORK-03.md](docs/HOMEWORK-03.md) | ДЗ №3 — «Принеси настоящие данные» |
