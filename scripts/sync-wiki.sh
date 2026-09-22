@@ -32,6 +32,7 @@ docs/ARCHITECTURE.md|Architecture
 docs/CLUSTER.md|Cluster
 docs/HOMEWORK-01.md|Homework-01
 docs/HOMEWORK-02.md|Homework-02
+docs/HOMEWORK-03.md|Homework-03
 docs/LESSON-03.md|Lesson-03
 docs/LESSON-04.md|Lesson-04
 docs/WEEK-03.md|Week-03
@@ -63,6 +64,7 @@ rewrite_links() {
         -e 's#\]\(CLUSTER\.md#](Cluster#g' \
         -e 's#\]\(HOMEWORK-01\.md#](Homework-01#g' \
         -e 's#\]\(HOMEWORK-02\.md#](Homework-02#g' \
+        -e 's#\]\(HOMEWORK-03\.md#](Homework-03#g' \
         -e 's#\]\(LESSON-03\.md#](Lesson-03#g' \
         -e 's#\]\(LESSON-04\.md#](Lesson-04#g' \
         -e 's#\]\(WEEK-03\.md#](Week-03#g' \
@@ -107,6 +109,7 @@ cat > "$OUT/_Sidebar.md" <<'SIDEBAR'
 - [[Howto]]
 - [[Homework-01]]
 - [[Homework-02]]
+- [[Homework-03]]
 
 ### Шаблоны
 
