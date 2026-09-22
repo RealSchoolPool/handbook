@@ -35,7 +35,7 @@ docs/HOMEWORK-02.md|Homework-02
 docs/HOMEWORK-03.md|Homework-03
 docs/LESSON-03.md|Lesson-03
 docs/LESSON-04.md|Lesson-04
-docs/LESSON-06.md|Lesson-06
+docs/LESSON-05.md|Lesson-05
 docs/WEEK-03.md|Week-03
 docs/TEAM-SKILLS.md|Team-Skills
 docs/IDEA-PIPELINE.md|Idea-Pipeline
@@ -68,7 +68,7 @@ rewrite_links() {
         -e 's#\]\(HOMEWORK-03\.md#](Homework-03#g' \
         -e 's#\]\(LESSON-03\.md#](Lesson-03#g' \
         -e 's#\]\(LESSON-04\.md#](Lesson-04#g' \
-        -e 's#\]\(LESSON-06\.md#](Lesson-06#g' \
+        -e 's#\]\(LESSON-05\.md#](Lesson-05#g' \
         -e 's#\]\(WEEK-03\.md#](Week-03#g' \
         -e 's#\]\(TEAM-SKILLS\.md#](Team-Skills#g' \
         -e 's#\]\(IDEA-PIPELINE\.md#](Idea-Pipeline#g' \
@@ -106,7 +106,7 @@ cat > "$OUT/_Sidebar.md" <<'SIDEBAR'
 
 - [[Lesson-03]]
 - [[Lesson-04]]
-- [[Lesson-06]]
+- [[Lesson-05]]
 - [[Week-03]]
 - [[Lessons]]
 - [[Howto]]
