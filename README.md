@@ -27,6 +27,7 @@
 | [docs/WEEK-03.md](docs/WEEK-03.md) | Неделя 3 по дням: Python, git, первая программа на сервере |
 | [docs/HOMEWORK-02.md](docs/HOMEWORK-02.md) | ДЗ №2 — «Найди заказчика» |
 | [docs/HOMEWORK-03.md](docs/HOMEWORK-03.md) | ДЗ №3 — «Принеси настоящие данные» |
+| [docs/HOMEWORK-04.md](docs/HOMEWORK-04.md) | ДЗ №4 — «Список, фильтр, печать»: task03, task04 и фильтр на данных проекта |
 | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | Архитектура трёх проектов: одна форма, правило core/cli, чего не делаем |
 | [docs/CLUSTER.md](docs/CLUSTER.md) | Серверный кластер: изоляция, доступы, деплой, фоллбэки |
 | [lessons/README.md](lessons/README.md) | Задания и `check.py` — проверка, линтер, подсказки |
