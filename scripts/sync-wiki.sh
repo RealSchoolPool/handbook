@@ -34,6 +34,7 @@ docs/HOMEWORK-01.md|Homework-01
 docs/HOMEWORK-02.md|Homework-02
 docs/HOMEWORK-03.md|Homework-03
 docs/HOMEWORK-04.md|Homework-04
+docs/HOMEWORK-05.md|Homework-05
 docs/LESSON-03.md|Lesson-03
 docs/LESSON-04.md|Lesson-04
 docs/LESSON-05.md|Lesson-05
@@ -68,6 +69,7 @@ rewrite_links() {
         -e 's#\]\(HOMEWORK-02\.md#](Homework-02#g' \
         -e 's#\]\(HOMEWORK-03\.md#](Homework-03#g' \
         -e 's#\]\(HOMEWORK-04\.md#](Homework-04#g' \
+        -e 's#\]\(HOMEWORK-05\.md#](Homework-05#g' \
         -e 's#\]\(LESSON-03\.md#](Lesson-03#g' \
         -e 's#\]\(LESSON-04\.md#](Lesson-04#g' \
         -e 's#\]\(LESSON-05\.md#](Lesson-05#g' \
@@ -116,6 +118,7 @@ cat > "$OUT/_Sidebar.md" <<'SIDEBAR'
 - [[Homework-02]]
 - [[Homework-03]]
 - [[Homework-04]]
+- [[Homework-05]]
 
 ### Шаблоны
 
